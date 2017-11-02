@@ -1,0 +1,17 @@
+﻿  Surface.cpp
+  Search.cpp
+c:\users\sam\desktop\ai programming\kp_retain\retain - copy - copy\search.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\desktop\ai programming\kp_retain\retain - copy - copy\search.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\desktop\ai programming\kp_retain\retain - copy - copy\search.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\desktop\ai programming\kp_retain\retain - copy - copy\search.cpp(125): warning C4018: '<': signed/unsigned mismatch
+  Node.cpp
+  main.cpp
+c:\users\sam\desktop\ai programming\kp_retain\retain - copy - copy\main.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\desktop\ai programming\kp_retain\retain - copy - copy\main.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\desktop\ai programming\kp_retain\retain - copy - copy\main.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\desktop\ai programming\kp_retain\retain - copy - copy\main.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\desktop\ai programming\kp_retain\retain - copy - copy\main.cpp(329): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\sam\desktop\ai programming\kp_retain\retain - copy - copy\search.cpp(139): warning C4715: 'Search::InitialiseSearch': not all control paths return a value
+  retain.vcxproj -> C:\Users\Sam\Desktop\AI Programming\KP_retain\retain - Copy - Copy\vs2012\Debug\retain.exe
+  retain.vcxproj -> C:\Users\Sam\Desktop\AI Programming\KP_retain\retain - Copy - Copy\vs2012\Debug\retain.pdb (Partial PDB)
